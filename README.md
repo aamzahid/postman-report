@@ -1,3 +1,3 @@
-# postman-report
+# HTML-report
 
 ![](images/NewmanSummaryReport.png)
